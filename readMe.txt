@@ -1,5 +1,4 @@
-COMP 2406 - Assignment 3
-Name: Alexei Tipenko (100995947)
+Name: Alexei Tipenko
 Date: Sunday, November 13th, 2016
 
 * Developed in MacOS *
