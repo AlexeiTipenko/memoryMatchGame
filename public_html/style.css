@@ -1,0 +1,40 @@
+/*
+COMP 2406 - Assignment 3
+Name: Alexei Tipenko (100995947)
+Date: Sunday, November 13th, 2016
+*/
+
+
+body{
+	color:white;
+	text-shadow:  -2px -2px 0 #000,
+    2px -2px 0 #000,
+    -2px 2px 0 #000,
+    2px 2px 0 #000;
+	background-color:black;
+	font-style: normal;
+}
+
+div.tile{
+	box-shadow:2px 2px black;
+	background-color: green;
+	border:4px solid white;
+	border-radius:10px;
+	padding:10px;
+	width:50px;
+	height:50px;
+	vertical-align:top;
+	display:inline-block;
+	margin:5px;
+}
+
+div.selected {
+	background-color: white;
+	text-shadow: none;
+	color: black;
+	text-align: center;
+	font-size: 225%;
+}
+
+div.permSelected {
+}
